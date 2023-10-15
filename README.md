@@ -17,6 +17,8 @@ O objetivo deste projeto é implementar uma página web o mais parecida possíve
 
 ## Navbar
 
+![Texto Alternativo](./media/ex_navbar.png)
+
 - O logotipo do Dribbble deve ter as dimensões de 90x32 pixels.
 - A navbar deve ser fixa no topo da página, de modo a ser sempre visível independentemente do scroll.
 - Todo o texto na navbar e o logotipo devem estar centralizados verticalmente.
@@ -33,12 +35,16 @@ O objetivo deste projeto é implementar uma página web o mais parecida possíve
 
 ## Vídeo
 
+![Texto Alternativo](./media/ex_video.png)
+
 - O primeiro texto deve ter 32px de tamanho de letra.
 - O segundo texto deve ter 16px de tamanho de letra.
 - O vídeo deve ter 560px de altura.
 - O vídeo deve começar automaticamente ao abrir a página.
 
 ## Itens
+
+![Texto Alternativo](./media/ex_itens.png)
 
 - Cada item deve ter 300px de largura.
 - Na descrição do autor do item:
