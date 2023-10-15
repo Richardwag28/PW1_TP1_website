@@ -4,6 +4,8 @@ Este projeto é um trabalho prático da disciplina Programação Web I do Curso 
 
 O objetivo deste projeto é implementar uma página web o mais parecida possível à imagem fornecida e seguindo as indicações especificadas.
 
+![Texto Alternativo](./media/ex_website.png)
+
 ## Notas Gerais
 
 - Todo o código desenvolvido deve estar corretamente indentado e ser sintaticamente válido.
